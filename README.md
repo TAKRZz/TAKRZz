@@ -2,7 +2,7 @@
 - 👀 I’m interested in Operating System 
 - 🌱 I’m currently learning GAN & OS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me TAKR011118@outlook.com
+- 📫 How to reach me 
 
 
 <!---
