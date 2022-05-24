@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TAKRZz
-- 👀 I’m interested in Operating System 
-- 🌱 I’m currently learning GAN & OS
+- 👀 I’m interested in Walking;
+- 🌱 I’m currently learning AIFairness;
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me takr2z@sina.com
 
 
 <!---
