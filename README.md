@@ -2,8 +2,7 @@
 - 👀 I’m interested in Walking;
 - 🌱 I’m currently learning AIFairness;
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me takr2z@sina.com
-
+- 📫 Don't try to reach me ...
 
 <!---
 TAKRZz/TAKRZz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
